@@ -1,5 +1,5 @@
 <div align="center">
-<img height = "200" src="https://github.com/Chandan27112004/CKM/blob/main/chandan.gif"/>
+<img height = "200" src="https://github.com/ChandanDev27/ChandanDev27/blob/main/chandan.gif"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Chandan Kumar Mandal</h1>
