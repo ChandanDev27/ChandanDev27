@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan27112004&label=Profile%20views&color=0e75b6&style=flat" alt="chandan27112004" /> </p>
 
-- 🔭 I’m currently working on [Artificial Intelligence Interviewee Application](https://github.com/Chandan27112004/INTERVIEW_GENNIE_BACKEND.git)
+- 🔭 I’m currently working on [Artificial Intelligence Interviewee Application]([(https://github.com/ChandanDev27/Interview_Backend.git))
 
-- 🌱 I’m currently learning **Android Mobile,development,Python**
+- 🌱 I’m currently learning **Android Mobile development,Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chandan27112004](https://github.com/Chandan27112004)
 
