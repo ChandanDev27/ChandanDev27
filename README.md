@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Chandan Kumar Mandal</h1>
 <h3 align="center">A passionate Develops Engineer from India</h3>
+<h4 align="center">I'm a fresher skilled in FastAPI, Python, APIs, and Android development. I enjoy learning, collaborating, and exploring Hindi poetry and culture</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan27112004&label=Profile%20views&color=0e75b6&style=flat" alt="chandan27112004" /> </p>
 
