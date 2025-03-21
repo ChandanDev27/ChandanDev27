@@ -4,11 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Chandan Kumar Mandal</h1>
 <h3 align="center">A passionate Develops Engineer from India</h3>
-<h4 align="justify">I am a passionate and detail-oriented fresher, currently working on a project called 'Interview Gennie,' which combines my skills in FastAPI, MongoDB, and Android development to simplify interview preparation. I thrive in backend development and database management, implementing secure practices like JWT authentication and CryptContext for password security. My commitment to PEP 8 coding standards ensures my code is readable, maintainable, and efficient.
-
-Beyond development, my experience in the Sea Cadet Corps has shaped my leadership and teamwork abilities. It has instilled in me a sense of discipline, adaptability, and accountability that I bring to every challenge. I love learning new technologies and solving complex problems, and I approach every project with enthusiasm and innovation.
-
-When I’m not coding, I find inspiration in Hindi poetry and music, which brings balance and creativity to my technical pursuits. I’m excited to grow and contribute meaningfully to the tech world.</h4>
+<h4 align="justify">I am a passionate and detail-oriented fresher, currently working on a project called 'Interview Gennie,' which combines my skills in FastAPI, MongoDB, and Android development to simplify interview preparation. I thrive in backend development and database management, implementing secure practices like JWT authentication and CryptContext for password security. My commitment to PEP 8 coding standards ensures my code is readable, maintainable, and efficient.When I’m not coding, I find inspiration in Hindi poetry and music, which brings balance and creativity to my technical pursuits. I’m excited to grow and contribute meaningfully to the tech world.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan27112004&label=Profile%20views&color=0e75b6&style=flat" alt="chandan27112004" /> </p>
 
