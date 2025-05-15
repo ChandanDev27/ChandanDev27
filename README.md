@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChandanDev27&label=Profile%20views&color=0e75b6&style=flat" alt="chandan27112004" /> </p>
 
-- 🔭 I’m currently working on [Interviewee Genie](https://github.com/ChandanDev27/Interview_backend.git)
+- 🔭 ----
 
 - 🌱 I’m currently learning **Android Mobile development,Python**
 
