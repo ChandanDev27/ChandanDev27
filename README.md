@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chandan18305@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13bBRK8JBoLWLxpEITtdqRl-inJbeX8No/view?usp=sharing](https://drive.google.com/file/d/13bBRK8JBoLWLxpEITtdqRl-inJbeX8No/view?usp=sharing)
+- 📄 **Explore my experiences** → [Read more](https://docs.google.com/document/d/15wGuE3FmHmnygtMGiqlZEQ88H5QndkDg/edit?usp=sharing&ouid=102444390550476534822&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
