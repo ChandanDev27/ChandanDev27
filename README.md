@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChandanDev27&label=Profile%20views&color=0e75b6&style=flat" alt="chandan27112004" /> </p>
 
-- 🔭 **Full-Stack Developer | Junior Python Developer | Building Scalable & Secure Apps**
+- 🔭 **Full-Stack Developer | Junior Backend Developer | Building Scalable & Secure Apps**
 
-- 🌱 I’m currently learning **Android Mobile development,Python**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChandanDev27]
 
